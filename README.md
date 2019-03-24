@@ -8,7 +8,7 @@ Little Tic-Tac-Toe game I made in python!
 
 Just a simple
 
-    $/> make
+    $/> python3 board_game.py
 
 should get a new game going for you.
 
